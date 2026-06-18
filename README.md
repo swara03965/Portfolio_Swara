@@ -38,27 +38,6 @@ Build Tool: Vite
 Deployment: Vercel 
 
 
-✨ Features
-
-⚡ Responsive modern UI (mobile + desktop)
-
-🎮 Interactive 3D scene using Three.js
-
-🧠 Type-safe development with TypeScript
-
-🧩 Modular React component architecture
-
-🎨 Smooth animations and transitions
-
-📂 Projects showcase with visual appeal
-
-👤 About, Skills, Experience sections
-
-📬 Contact section with social links
-
-🚀 Optimized performance for 3D rendering
-
-
 🧠 What I Learned
 
 While building this project, I improved my skills in:
@@ -74,6 +53,7 @@ Performance optimization for browser-based graphics
 UI/UX design with interactive elements
 
 Structuring scalable frontend projects
+
 
 ⚙️ Getting Started (Run Locally)
 
